@@ -1,5 +1,5 @@
 ### Hi 👋,  I'm John, A Kenyan Software Developer
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=j-muiruri)](https://github.com/j-muiruri/github-readme-stats)
+ <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=j-muiruri)](https://github.com/j-muiruri/github-readme-stats) -->
 <!--
 **j-muiruri/j-muiruri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

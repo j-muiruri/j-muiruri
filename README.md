@@ -13,10 +13,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div style="display:flex">
+<div style="display: flex">
+  <p align=center style="width:100%;">
+   <img src="https://wakatime.com/share/@jmuiruri/ca219884-3d0e-4eab-b650-8332d6456120.png" />
+  </p>
    <a href="https://wakatime.com">
-    <img style="width:45%; height=35%;"src="https://wakatime.com/share/@jmuiruri/980a5578-4f51-4e5c-84ac-c5db7f73c909.png" />
-    <img style="width:45%; height=35%" src="https://wakatime.com/share/@jmuiruri/1b3f9940-5bcd-457c-9cc3-daba0e89917c.png" />
+    <p align=center>
+    <img style="width:45%; height=10%;"src="https://wakatime.com/share/@jmuiruri/980a5578-4f51-4e5c-84ac-c5db7f73c909.png" />
+    <img style="width:45%; height=250px" src="https://wakatime.com/share/@jmuiruri/1b3f9940-5bcd-457c-9cc3-daba0e89917c.png" />
+    </p>
    </a>
 </div>
  

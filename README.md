@@ -1,4 +1,4 @@
-### Hi 👋,  I'm John, A Kenyan Software Developer
+### Hi 👋,  I'm John, a Software Engineer
  <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=j-muiruri)](https://github.com/j-muiruri/github-readme-stats) -->
 <!--
 **j-muiruri/j-muiruri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.--
@@ -13,4 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<figure><embed src="https://wakatime.com/share/@jmuiruri/af2491de-8d1c-4dbf-9b17-04b656177e7c.svg"></embed></figure>
+<div style="display:flex">
+   <a href="https://wakatime.com">
+    <img style="width:45%; height=35%;"src="https://wakatime.com/share/@jmuiruri/980a5578-4f51-4e5c-84ac-c5db7f73c909.png" />
+    <img style="width:45%; height=35%" src="https://wakatime.com/share/@jmuiruri/1b3f9940-5bcd-457c-9cc3-daba0e89917c.png" />
+   </a>
+</div>
+ 

@@ -1,10 +1,21 @@
 ### Hi 👋,  I'm John, a Software Engineer
- <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=j-muiruri)](https://github.com/j-muiruri/github-readme-stats) -->
+<p style="width:100%;">
+   <img src="https://wakatime.com/share/@jmuiruri/ca219884-3d0e-4eab-b650-8332d6456120.png" />
+  </p>
+
+[![wakatime](https://wakatime.com/badge/user/6870ae7f-b360-4062-8408-a7a8c4420037.svg)](https://wakatime.com/@6870ae7f-b360-4062-8408-a7a8c4420037)
+[![twitter](https://img.shields.io/twitter/follow/Xmuiruri?label=followers&logo=twitter&color=%23007ec6&style=plastic)](https://twitter.com/Xmuiruri)
+[![github](https://img.shields.io/github/followers/j-muiruri?logo=github&style=plastic)](https://github.com/j-muiruri?tab=followers)
+
+- 🔭 I’m currently working on [Jamii Stats](https://github.com/j-muiruri) a secret 😜 project
+- 💬 Ask me about PHP, Javascript, Laravel, Vuejs, AWS, GCP, CI/CD 
+- 📫 How to reach me: [@Xmuiruri](https://twitter.com/Xmuiruri) on Twitter
+
+ <!-- [![John Muiruri's GitHub stats](https://github-readme-stats.vercel.app/api?username=j-muiruri)](https://github.com/j-muiruri/github-readme-stats) -->
 <!--
 **j-muiruri/j-muiruri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.--
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
+ 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -13,10 +24,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <div style="display: flex">
-  <p align=center style="width:100%;">
-   <img src="https://wakatime.com/share/@jmuiruri/ca219884-3d0e-4eab-b650-8332d6456120.png" />
-  </p>
    <a href="https://wakatime.com">
     <p align=center>
     <img style="width:45%; height=10%;"src="https://wakatime.com/share/@jmuiruri/980a5578-4f51-4e5c-84ac-c5db7f73c909.png" />

@@ -47,6 +47,7 @@ Here are some ideas to get you started:
 <div style="display: flex">
    <a href="https://wakatime.com">
     <p align=center>
+      <img src="https://wakatime.com/wrapped/2023/6870ae7f-b360-4062-8408-a7a8c4420037/fbacec8fb9351944a93635af0a1a2315a1778fb0.png" />
     <img style="width:45%; height=10%;"src="https://wakatime.com/share/@jmuiruri/980a5578-4f51-4e5c-84ac-c5db7f73c909.png" />
     <img style="width:45%; height=250px" src="https://wakatime.com/share/@jmuiruri/1b3f9940-5bcd-457c-9cc3-daba0e89917c.png" />
     </p>

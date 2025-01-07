@@ -1,6 +1,6 @@
 ### Hi 👋,  I'm John, a Software Engineer
 <p style="width:100%;">
-   <img src="https://wakatime.com/share/@jmuiruri/ca219884-3d0e-4eab-b650-8332d6456120.png" />
+   <img src="https://wakatime.com/share/@jmuiruri/c444e7f2-d75b-4641-9701-6aebb8d8bd3f.png" />
   </p>
 
 [![wakatime](https://wakatime.com/badge/user/6870ae7f-b360-4062-8408-a7a8c4420037.svg)](https://wakatime.com/@6870ae7f-b360-4062-8408-a7a8c4420037)

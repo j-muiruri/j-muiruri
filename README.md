@@ -8,7 +8,7 @@
 [![github](https://img.shields.io/github/followers/j-muiruri?logo=github&style=plastic)](https://github.com/j-muiruri?tab=followers)
 
 - 🔭 I’m currently working on [Jamii Stats](https://github.com/j-muiruri) a secret 😜 project
-- 💬 Ask me about PHP, Javascript, Laravel, Vuejs, AWS, GCP, CI/CD 
+- 💬 Ask me about PHP, Python, JavaScript, Laravel, Vue.js, AWS, GCP, CI/CD 
 - 📫 How to reach me: [@Xmuiruri](https://twitter.com/Xmuiruri) on Twitter
 
  <!-- [![John Muiruri's GitHub stats](https://github-readme-stats.vercel.app/api?username=j-muiruri)](https://github.com/j-muiruri/github-readme-stats) -->

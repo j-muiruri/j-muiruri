@@ -68,6 +68,17 @@ Here are some ideas to get you started:
 ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)
 ![CodePen](https://img.shields.io/badge/CodePen-white?&logo=codepen&logoColor=black)
 
+## Commit History
+
+<div align="center">
+  <a href="https://commit-history.com/j-muiruri">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/j-muiruri?theme=dark" />
+      <img alt="j-muiruri's commit history" src="https://commit-history.com/embed/j-muiruri" />
+    </picture>
+  </a>
+</div>
+
 ## Wakatime Stats
 <div style="display: flex">
    <a href="https://wakatime.com">
